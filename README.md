@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Bio
 
 <p>
-Heloo there, I am experienced Software Developer & I am currently studying Computer Science at the at the University of Kardan University, in the Kabul Afghinstan.
+Salaam, I am Nazir Bahadori an experienced Software Developer & I am currently studying Computer Science at the at the University of Kardan University, in the Kabul Afghinstan.
 
 A detailed-oriented, responsible, and committed developer, I have developed, implemented, and tested complex web, mobile and machine learning applications using a variety of programming languages and technologies. I am also a quick learner with strong problem-solving, leadership, management, and communication skills, comfortable working as a team or individually. 
 
@@ -59,7 +59,7 @@ A detailed-oriented, responsible, and committed developer, I have developed, imp
 
 
 
-[<img align="left" alt="Williano | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][facebook]
+[<img align="left" alt="Williano | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Williano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 

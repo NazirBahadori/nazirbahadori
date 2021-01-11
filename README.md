@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 <br>
 </a>
 
+
 ## Bio
 
 <p>
 Salaam, I am Nazir Bahadori an experienced Software Developer & I am currently studying Computer Science at Kardan University, in the Kabul Afghinstan.
 
-A detailed-oriented, responsible, and committed developer, I have developed, implemented, and tested complex web, mobile and machine learning applications using a variety of programming languages and technologies. I am also a quick learner with strong problem-solving, leadership, management, and communication skills, comfortable working as a team or individually. 
+I'm a willing and specialized web developer in server-side programming with over 4+ years of extensive professional experience. Problem solving, processing, optimizing, scalability and user-friendly is my favorite fun on developing. I am also a quick learner with strong problem-solving, leadership, management, and communication skills, comfortable working as a team or individually. 
 
 
 </p>
@@ -35,7 +36,7 @@ A detailed-oriented, responsible, and committed developer, I have developed, imp
 
 <p>
   
-- **Technology Stack:** PHP[Laravel,CodeIgniter,WordPress,Shopify], Dart[Flutter], JavaScript[react.js,Vue.js]. 
+- **Technology Stack:** PHP[Laravel,CodeIgniter,WordPress,Shopify], JavaScript[react.js,Vue.js]. 
 
 - **UI Design:** Draw.io, Figma.
 
@@ -45,7 +46,7 @@ A detailed-oriented, responsible, and committed developer, I have developed, imp
 
 - **DevOps:** Git, GitHub Actions.
 
-- **Other Skills:** Data Mining, Google Analytics, Search Engine Optimization (SEO), HTML/CSS, Bootstrap, Tailwind CSS. 
+- **Other Skills:** Data Mining, Google Analytics, Search Engine Optimization (SEO), Problem Solving HTML/CSS, Accuracy and attention to detail, Bootstrap, Tailwind CSS. 
 
 - **Operating Systems:** Windows, Linux, macOS.
 

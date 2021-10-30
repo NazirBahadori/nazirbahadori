@@ -36,7 +36,7 @@ I'm a willing and specialized web developer in server-side programming with over
 
 <p>
   
-- **Technology Stack:** PHP[Laravel,CodeIgniter,WordPress,Shopify], JavaScript[react.js,Vue.js]. 
+- **Technology Stack:** PHP[Laravel,CodeIgniter,WordPress,Shopify], JavaScript[react.js,reactNative,Vue.js], Dart[flutter]. 
 
 - **UI Design:** Draw.io, Figma.
 
